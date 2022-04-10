@@ -7,4 +7,4 @@ function onLoginSubmit(event){
     console.log(loginInput.value);
 }
 
-loginForm.addEventListener("submit",onLoginSubmit)
+loginForm.addEventListener("submit",onLoginSubmit);
